@@ -1,0 +1,1 @@
+python main.py --model Ours --lr 1e-4 --local_lr 1e-4 --gamma 0.4 --tau 0.1
